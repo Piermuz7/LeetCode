@@ -97,5 +97,3 @@ def romanToInt(s: str) -> int:
             n += 1000
             skip = False
     return n
-
-print(romanToInt("MCMXCIV"))
